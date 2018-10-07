@@ -10,3 +10,20 @@ Lade dein Lieblingsfarbschema von `themes/THEMA/THEMA.tdesktop-theme` und aktivi
 
 ## Mitwirkende
 - [Neil Smith](https://github.com/dracula/telegram/blob/master/colors.tdesktop-theme) (Dracula Theme v0.1)
+
+## Screenshots
+
+### gruvbox-dark-hard
+![gruvbox-dark-hard](screenshots/gruvbox-dark-hard.png)
+
+### gruvbox-light-hard
+![gruvbox-light-hard](screenshots/gruvbox-light-hard.png)
+
+### molokai
+![molokai](screenshots/molokai.png)
+
+### solarized-dark
+![solarized-dark](screenshots/solarized-dark.png)
+
+### solarized-light
+![solarized-light](screenshots/solarized-light.png)

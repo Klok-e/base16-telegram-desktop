@@ -10,6 +10,6 @@ The themes have been built using [base16-builder-python](https://github.com/Insp
 Download your favourite theme from `themes/YOUR-THEME/YOUR-THEME.tdesktop-theme` and set it from `telegram-desktop` in Settings/Chat background/Choose from file and browse to the file `YOUR-THEME.tdesktop-theme
 
 ## Contributors
-- [Neil Smith](https://github.com/dracula/telegram/blob/master/colors.tdesktop-theme)(Dracula Theme v0.1)
+- [Neil Smith](https://github.com/dracula/telegram/blob/master/colors.tdesktop-theme) (Dracula Theme v0.1)
 
 ## Screenshots

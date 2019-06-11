@@ -1,8 +1,7 @@
 # base16-telegram-desktop
 ([Deutsch](doc/README_DE.md))
 
-This repository is meant to work with
-[base16](https://github.com/chriskempson/base16).
+This repository is meant to work with colorschemes as defined in [base16](https://github.com/chriskempson/base16).
 It provides a simple template for [Telegram Desktop](https://desktop.telegram.org).
 
 The themes have been built using [base16-builder-python](https://github.com/InspectorMustache/base16-builder-python).
